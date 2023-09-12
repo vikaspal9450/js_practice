@@ -1,0 +1,12 @@
+caption{
+    color: red;
+    background-color: yellow;
+}
+th{
+    color: rgb(234, 12, 12);
+    background-color: black;
+}
+td{
+    color: white;
+    background-color: black;
+}

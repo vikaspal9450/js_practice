@@ -1,0 +1,15 @@
+*{
+    color: blue;
+}
+#MainTopic{
+    color: blue;
+}
+h1
+h3
+h5{
+    font-family: georgia;
+}
+.content{
+    background-color: cornflowerblue;
+    color: white;
+}

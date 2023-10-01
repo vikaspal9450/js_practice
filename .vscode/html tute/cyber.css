@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: red underline;
+}
+ol::first-line{
+    color: red;
+}
+ol::last-line{
+    color: red;
+}
+span.result {
+    position: relative;
+    left: 12rem;
+}
